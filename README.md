@@ -1,6 +1,6 @@
 # Submersible Simulation
 
-## Author: Amir Tarbiyat B00882695
+## Author: Amir Tarbiyat 
 
 ---
 ## Introduction
